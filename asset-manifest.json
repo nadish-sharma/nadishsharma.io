@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nadishsharma.io/static/css/main.f855e6bc.css",
+    "main.js": "/nadishsharma.io/static/js/main.decf73fc.js",
+    "static/js/787.7da95b79.chunk.js": "/nadishsharma.io/static/js/787.7da95b79.chunk.js",
+    "static/media/logo.svg": "/nadishsharma.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nadishsharma.io/index.html",
+    "main.f855e6bc.css.map": "/nadishsharma.io/static/css/main.f855e6bc.css.map",
+    "main.decf73fc.js.map": "/nadishsharma.io/static/js/main.decf73fc.js.map",
+    "787.7da95b79.chunk.js.map": "/nadishsharma.io/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.decf73fc.js"
+  ]
+}
